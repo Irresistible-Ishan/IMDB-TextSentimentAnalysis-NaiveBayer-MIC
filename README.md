@@ -59,4 +59,7 @@ now as i tried to search how i can know its accuracy , like in previous logistic
 
 now to create an embedding like i used to in CNN vector 128 dimensional vector space i need to do the same here to know which words tends towards positivity and which negativity actually thats the task of the model but still we need to specify the special words here like if the is everywhere then model can confuse it with a unique or important word so ill use TF IDF here , even tho instructions linked count vectorizer i feel like i should be using TF IDF because it can help it show a better behaviour and its almost the same approach just different method , its better than just raw counting as i mentioned earlier like "the" "is" etc , TF IDF is more needed here since i didn't clean the dataset of the non important words like is and the.
 
+after this now im only updated the apporach using comments on the code files 
+
+
 
