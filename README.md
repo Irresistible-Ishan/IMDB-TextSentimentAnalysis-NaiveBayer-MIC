@@ -1,7 +1,7 @@
 # IMDB-TextSentimentAnalysis-NaiveBayer-MIC
 This project was made under time constraint of 2 days for the recruitment round 2 , Microsoft Innovations Club AIML dept 2025 for On-Campus VIT CHENNAI . 
 
-GOOGLE DRIVE LINK TO ACCESS ALL THE FILES IN A ZIP = 
+GOOGLE DRIVE LINK TO ACCESS ALL THE FILES in this folder = https://drive.google.com/drive/folders/1y_5XZdTieDB6rWLfHYzE1AgADD9kwVUD?usp=sharing
 
 ## IMPORTANT : PLEASE USE GOOGLE DRIVE TO ACCESS THE DATASET AND ALL THE CODE FILES 
 ### as the dataset and the cleaneddataset csv were more than 25 mb so couldnt upload on the github thankyou. 
