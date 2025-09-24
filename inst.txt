@@ -1,0 +1,21 @@
+Hello everyone,
+
+We’re excited to announce the AIML recruitment task! 
+All batches (2023, 2024, 2025) will work on the IMDb Movie Review Sentiment Analysis dataset. The core problem is the same, but expectations differ by batch.
+
+
+📌 Submission Guidelines
+
+- Write a short README explaining your approach.
+
+- Upload your scripts/code to GitHub or an open-access Google Drive folder.
+
+- Submit the link via the Google Form shared.
+
+You are expected to complete this by Wednesday (24/09/2025) 11:59PM.
+
+
+
+Best of luck 🚀, we look forward to seeing your solutions!
+
+Candidates shortlisted for the Interviews will be announced by Thursday (25/09/2025) EOD.
