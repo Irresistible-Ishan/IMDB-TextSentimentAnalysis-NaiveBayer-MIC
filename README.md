@@ -1,12 +1,23 @@
 # IMDB-TextSentimentAnalysis-NaiveBayer-MIC
-This project was made under time constraint for the recruitment round 2 , Microsoft Innovations Club AIML dept 2025 for On-Campus VIT CHENNAI . 
+This project was made under time constraint of 2 days for the recruitment round 2 , Microsoft Innovations Club AIML dept 2025 for On-Campus VIT CHENNAI . 
 
+GOOGLE DRIVE LINK TO ACCESS ALL THE FILES IN A ZIP = 
+
+## IMPORTANT : PLEASE USE GOOGLE DRIVE TO ACCESS THE DATASET AND ALL THE CODE FILES 
+### as the dataset and the cleaneddataset csv were more than 25 mb so couldnt upload on the github thankyou. 
+### just include dataset.csv and run the codes in the order down below and it would automatically form all the files 
+
+### Language used : Python
+### Libraries used : Sklearn , pandas , csv , pickle
+### ML Method used : Naive Bayer
+
+# RESULT : accuracy of 86.4%
+
+I Recommend the order in which you must run the codes to come to conclusion and result 
+###  cleaningDATASET.py -> trainingMain.py -> testingModel.py
 
 Here is my thought process why , what , how on model picking and more 
-
 # my approach 
-
-
 first this is sentimental analysis 
 text sentimental analysis is new to me rather than face sentimental analysis 
 
